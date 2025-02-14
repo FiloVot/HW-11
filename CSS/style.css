@@ -6,3 +6,8 @@
     border: 2px dashed black;
     background-color: green;
 }
+
+* {
+    box-sizing: border-box;
+}
+
